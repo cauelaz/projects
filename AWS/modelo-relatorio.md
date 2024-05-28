@@ -1,27 +1,27 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: [data de início do projeto]
+Data: 27/05/2024
 Empresa: Abstergo Industries 
-Responsável: [nome do responsável pelo projeto]
+Responsável: Cauê Costa Lazzarotti  
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa [nome da empresa], realizado por [nome do responsável pelo projeto]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa  Abstergo Industries, realizado por Cauê Costa Lazzarotti . O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos e ainda assim mantendo uma infraestrutura robusta e avançada na área técnologica da farmácia.
 
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
+- Amazon RDS (Amazon Relational Databases)
+- Utilizar do serviço de armazenamento de Bancos de Dados Relacionais, pois a empresa utiliza atualmente um banco de Dados Relacional em Firebird, plataforma antiga e com um processamento lento de dados se comparado a outros disponíveis no mercado
 - [Descrição de caso de uso]
 
 Etapa 2: 
-- [Nome da ferramenta]
+- S3 (Simple Storage)
 - [Foco da ferramenta]
 - [Descrição de caso de uso]
 
 Etapa 3: 
-- [Nome da ferramenta]
+- EC2(Amazon Elastic Compute Cloud)
 - [Foco da ferramenta]
 - [Descrição de caso de uso]
 
